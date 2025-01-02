@@ -22,8 +22,8 @@
 
 [2] B.Menze et al, "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
 
-[3] [text](https://github.com/TAUforPython/wavelets/blob/main/wavelets_cwt_dwt_example_EEG_ECG.ipynb)
+[3] [My supervisor](https://github.com/TAUforPython/wavelets/blob/main/wavelets_cwt_dwt_example_EEG_ECG.ipynb)
 
 [4] © 2024 The Author(s). Epilepsia published by Wiley Periodicals LLC on behalf of International League Against Epilepsy.
 
-[5] [text](https://openneuro.org/datasets/ds005602/versions/1.0.0)
+[5] [Data for EEG](https://openneuro.org/datasets/ds005602/versions/1.0.0)
