@@ -1,3 +1,5 @@
 PyInstaller==3.3.1
 PyQt5==5.10.1
 vtk==8.1.0
+mne==1.9.0
+matplotlib==3.9.2
