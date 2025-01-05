@@ -35,7 +35,7 @@ class EEGPlotWidget(QtWidgets.QWidget):
     def load_data(self):
         # Чтение данных из файла EDF
         self.data_from_raw_edf = mne.io.read_raw_edf(
-            "C:\\projects\\python\\3d-nii-visualizer-master\\3d-nii-visualizer-master\\visualizer_for_edf\\EDF_example_FS_healthy.edf",
+            "visualizer_for_edf/EDF_example_FS_healthy.edf",
             preload=True,
         )
 
@@ -92,12 +92,12 @@ class PlotWidget(QtWidgets.QWidget):
     def plot_eeg(self):
 
         data_from_raw_edf = mne.io.read_raw_edf(
-            "C:\\projects\\python\\3d-nii-visualizer-master\\3d-nii-visualizer-master\\visualizer_for_edf\\EDF_example_FS_healthy.edf",
+            "visualizer_for_edf/EDF_example_FS_healthy.edf",
             preload=True,
         )
 
         data_from_raw_edf.plot(scalings="auto", show=False)
-        plt.show()
+        #plt.show()
 
         eeg_data, eeg_times = data_from_raw_edf.get_data(return_times=True)
 
