@@ -1,6 +1,6 @@
 # A NIfTI (nii.gz) 3D Visualizer using VTK and Qt5
 
-<img src="/images/visualization.png" style="width: 1000px;"/>
+<img src="Visualizer-for-thesis-EEG/3d-nii-visualizer-master/images/visualization.png" style="width: 1000px;"/>
 
 ### Run with Python
 
