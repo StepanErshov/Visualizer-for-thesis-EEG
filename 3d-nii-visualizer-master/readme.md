@@ -5,7 +5,7 @@
 ### Run with Python
 
 1.  Create a virtual environment. Mac can use virtualenv or conda. Windows must use conda.
-2.  Install the dependencies (PyQt5, vtk, and sip) `pip install PyQt5 vtk matplotlib mne zenodo_get`
+2.  Install the dependencies (PyQt5, vtk, mne, zenodo_get and sip) `pip install PyQt5 vtk matplotlib mne zenodo_get`
 3.  Start the program `python ./visualizer/brain_tumor_3d.py -i "./sample_data/10labels_example/T1CE.nii.gz" -m "./sample_data/10labels_example/mask.nii.gz"`
 
 ### Generate PyInstaller Binaries
