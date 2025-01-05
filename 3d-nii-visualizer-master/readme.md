@@ -1,6 +1,6 @@
 # A NIfTI (nii.gz) 3D Visualizer using VTK and Qt5
 
-<img src="https://github.com/adamkwolf/3d-nii-visualizer/blob/master/images/visualization.png" style="width: 1000px;"/>
+<img src="/images/visualization.png" style="width: 1000px;"/>
 
 ### Run with Python
 
